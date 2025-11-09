@@ -1,0 +1,26 @@
+{
+  "name": "poo-typescript_fullcycle_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --import=tsx ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoMartino/POO---Fullcycle-course---with-TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BrunoMartino/POO---Fullcycle-course---with-TS/issues"
+  },
+  "homepage": "https://github.com/BrunoMartino/POO---Fullcycle-course---with-TS#readme",
+  "devDependencies": {
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
